@@ -1,0 +1,33 @@
+body {
+  background-color: lightGray;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 5px green;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
